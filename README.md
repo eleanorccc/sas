@@ -5,4 +5,4 @@ and SAS Advanced Programmer. \
 SAS Programmer: https://www.coursera.org/professional-certificates/sas-programming     \
 notes1 is the notes to this speclization.\
 SAS Advanced Programmer: https://www.coursera.org/professional-certificates/sas-advanced-programmer       \
-notes1 is the notes to this speclization.
+notes2 is the notes to this speclization.
